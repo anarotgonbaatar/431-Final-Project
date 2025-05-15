@@ -22,6 +22,17 @@ This is a full-stack web app that allows users to:
 
 ## Setup Instructions
 
+### Prerequisites
+
+You must have Node.js and npm installed.
+Download and install Node.js (LTS version) from: https://nodejs.org/
+To check if it's installed:
+
+```bash
+node -v
+npm -v
+```
+
 ### 1. Install Dependencies
 
 Open two terminals and navigate into both `client` and `server` folders separately and install their dependencies:
